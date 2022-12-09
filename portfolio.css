@@ -6,7 +6,7 @@ h1 {
 
 p {
     text-align: center;
-    padding: 30px;
+    padding: 10px;
 }
 
 h2 {
@@ -16,7 +16,14 @@ h2 {
 ul {
     text-align: center;
     list-style: none;
+    padding: 10px;
 }
 h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+h5 {
     text-align: center;
 }
