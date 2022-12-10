@@ -75,7 +75,7 @@ ul {
   color: #f7d8d7;
 }
 .resources {
-  margin-bottom: 38px;
+  margin-bottom: 24px;
 }
 .linktree {
   margin-bottom: 50px;
@@ -84,7 +84,9 @@ ul {
   font-size: 13px;
   margin-bottom: 43px;
 }
-
+.source {
+  text-align: center;
+}
 @media (max-width: 1200px) {
   p {
     margin-left: 0px;
