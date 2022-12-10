@@ -38,6 +38,8 @@ p {
   text-align: center;
   padding: 10px;
   font-family: "Glegoo", serif;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 img {
   border-radius: 50%;
@@ -50,6 +52,7 @@ section {
 }
 footer {
   font-size: 20px;
+   font-family: "Black Han Sans", sans-serif;
 }
 
 ul {
@@ -71,4 +74,10 @@ ul {
 .pressure {
     font-size: 24px;
      font-family: "Glegoo", serif;
+}
+.resources {
+  margin-bottom: 50px;
+}
+.linktree {
+  margin-bottom: 50px;
 }
