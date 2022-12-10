@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    margin-top: 80px;
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 
@@ -28,6 +28,9 @@ p {
 }
 img {
     border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
 }
 section {
     text-align: center;
