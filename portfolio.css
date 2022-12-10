@@ -75,7 +75,7 @@ ul {
   color: #f7d8d7;
 }
 .resources {
-  margin-bottom: 50px;
+  margin-bottom: 38px;
 }
 .linktree {
   margin-bottom: 50px;
@@ -99,8 +99,10 @@ ul {
   }
   img {
     width: 80px;
+    margin-top: 48px;
   }
   .brand-name {
     font-size: 64px;
   }
+ 
 }
