@@ -1,53 +1,74 @@
+body {
+  background: linear-gradient(#637d9e, #f7d8d7);
+}
 h1 {
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 10px;
+    font-size: 55px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "Black Han Sans", sans-serif;
 }
 
 h2 {
-    text-align: center;
+  text-align: center;
+  font-family: "Black Han Sans", sans-serif;
 }
 
 h3 {
-    text-align: center;
+  text-align: center;
+  font-family: "Black Han Sans", sans-serif;
 }
 
 h4 {
-    text-align: center;
+  text-align: center;
+  font-family: "Black Han Sans", sans-serif;
 }
 
 h5 {
-    text-align: center;
+  text-align: center;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  color: red;
 }
 p {
-    text-align: center;
-    padding: 10px;
+  text-align: center;
+  padding: 10px;
+  font-family: "Glegoo", serif;
 }
 img {
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto;
-    margin-top: 50px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
 }
 section {
-    text-align: center;
+  text-align: center;
 }
 footer {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 ul {
-    text-align: center;
-    list-style: none;
-    padding: 10px;
+  text-align: center;
+  list-style: none;
+  padding: 10px;
+  font-family: "Glegoo", serif;
 }
 .mcs {
-    font-size: 30px;
+  font-size: 30px;
+  font-family: "Black Han Sans", sans-serif;
 }
 .brand-name {
-    font-size: 80px;
-    text-align: center;
+  font-size: 80px;
+  text-align: center;
+  font-family: "Black Han Sans", sans-serif;
+  color: #f7d8d7;
+}
+.pressure {
+    font-size: 24px;
+     font-family: "Glegoo", serif;
 }
