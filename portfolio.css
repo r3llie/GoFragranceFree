@@ -26,6 +26,9 @@ p {
     text-align: center;
     padding: 10px;
 }
+img {
+    border-radius: 50%;
+}
 section {
     text-align: center;
 }
@@ -43,4 +46,5 @@ ul {
 }
 .brand-name {
     font-size: 80px;
+    text-align: center;
 }
