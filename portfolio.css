@@ -49,6 +49,9 @@ img {
   margin-top: 64px;
   width: 138px;
 }
+img:hover {
+  opacity: .7;
+}
 section {
   text-align: center;
 }
