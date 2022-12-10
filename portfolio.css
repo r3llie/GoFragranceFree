@@ -47,6 +47,7 @@ img {
   display: block;
   margin: 0 auto;
   margin-top: 64px;
+  width: 138px;
 }
 section {
   text-align: center;
@@ -95,5 +96,11 @@ ul {
   }
   .references {
     margin-bottom: 34px;
+  }
+  img {
+    width: 80px;
+  }
+  .brand-name {
+    font-size: 64px;
   }
 }
